@@ -3,8 +3,8 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Productivity Analysis for a Fashion Company](https://github.com/qidizhengkady/Machine-Learning-Project/tree/51034f7f21bf453c0cc820e807c061a42f097452)
-  - [Financial Institution Loan Default Analysis Project](https://github.com/qidizhengkady/Machine-Learning-Project/tree/51034f7f21bf453c0cc820e807c061a42f097452)
+  - [Productivity Analysis for a Fashion Company](https://github.com/qidizhengkady/Machine-Learning-Project)
+  - [Financial Institution Loan Default Analysis Project](https://github.com/qidizhengkady/Machine-Learning-Project)
 - <b>Timeseries</b> 
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Revenue Analysis for a Telecommunication Company</b>
