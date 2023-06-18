@@ -1,16 +1,14 @@
 <h1>Hi, I'm Kady! <br/><a href="https://github.com/qidizhengkady">Data Alchemist</a>, <a href="https://www.linkedin.com/in/qidizheng/"> Analyst Professional </a>
 
-<h2>👨‍💻 Machine Learning Projects:</h2>
-<!--
+<h2>👨‍💻 Data Projects:</h2>
+
 - <b>Financial Institution Loan Default Analysis Project</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Productivity Analysis and Data Visualization for a Fashion Company</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Financial Analysis for a Telecommunication Company</b>
+
+  <!--
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
@@ -22,6 +20,10 @@
   
 - <b>BI tools</b>
   - [Qlik Sense](https://www.linkedin.com/learning/certificates/359b3e574da3e4d425e00ea3a26ee785120ea1d39eb1d7ea122e7c982ae76b82?u=67856482)
+- <b>Data tolls</b>
+  - [SQL](https://www.datacamp.com/statement-of-accomplishment/course/accf8325e2acda711a98f51ceaae6288b77dbf77?raw=1)
+  - [VBA](https://www.linkedin.com/learning/certificates/f7248e1b1c4999ae6ed34b4d9fe6b9467346443533954ce6be17f60fa558ff82?u=67856482)
+  - [Microsoft Azure](https://www.linkedin.com/learning/certificates/3fcef4a07fdd8f7d9eec3e1861190e65ca098f3d265f98b0292f32d3a4f18025?u=67856482)
   
 <h2> 🤳 Connect with me:</h2>
 
