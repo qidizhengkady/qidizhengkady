@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Data Projects:</h2>
 
-- <b>Financial Institution Loan Default Analysis Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Productivity Analysis and Data Visualization for a Fashion Company</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Financial Analysis for a Telecommunication Company</b>
+- <b>Machine Learning</b>
+  - [Productivity Analysis for a Fashion Company](https://github.com/qidizhengkady/Machine-Learning-Project/tree/51034f7f21bf453c0cc820e807c061a42f097452)
+  - [Financial Institution Loan Default Analysis Project](https://github.com/qidizhengkady/Machine-Learning-Project/tree/51034f7f21bf453c0cc820e807c061a42f097452)
+- <b>Timeseries</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- <b>Revenue Analysis for a Telecommunication Company</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 <!--
 - <b>C# (.NET Desktop Applications)</b>
