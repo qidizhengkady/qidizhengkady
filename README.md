@@ -7,8 +7,11 @@
   - [Financial Institution Loan Default Analysis Project](https://github.com/qidizhengkady/Machine-Learning-Project)
 - <b>Timeseries</b> 
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+
+<!--
 - <b>Revenue Analysis for a Telecommunication Company</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+-->
 
 <!--
 - <b>C# (.NET Desktop Applications)</b>
